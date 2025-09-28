@@ -1,2 +1,2 @@
-# alarm-clock-cinnamon-desklet
+# Alarm Clock ⏰
 A simple alarm clock desklet with customizable alarm times.
